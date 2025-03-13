@@ -1,5 +1,6 @@
 # 💫 About Me:
-Building advanced full-stack web development projects to enhance my portfolio.<br>Full-stack projects, especially involving React, Node.js, and MongoDB.<br>Optimizing performance for large-scale web applications.<br>Advanced concepts in full-stack development.<br>Full-stack development with the MERN stack and beyond.<br>My journey from building simple web pages to mastering full-stack development has been an exciting learning adventure!<br>
+🔭 I’m currently working on:
+Building advanced full-stack web development projects to enhance my portfolio.<br>🤝 I’m looking to collaborate on:Full-stack projects, especially involving React, Node.js, and MongoDB.<br>Optimizing performance for large-scale web applications.<br>Advanced concepts in full-stack development.<br>Full-stack development with the MERN stack and beyond.<br>My journey from building simple web pages to mastering full-stack development has been an exciting learning adventure!<br>
 
 
 ## 🌐 Socials:
