@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building advanced full-stack web development projects to enhance my portfolio.<br>🤝 I’m looking to collaborate on: Full-stack projects, especially involving React, Node.js, and MongoDB.<br>👐 I’m looking for help with: Optimizing performance for large-scale web applications.<br>🌱 I’m currently learning: Advanced concepts in full-stack development.<br>💬 Ask me about: Full-stack development with the MERN stack and beyond.<br>⚡ Fun fact: My journey from building simple web pages to mastering full-stack development has been an exciting learning adventure!<br>
+🔭 I’m currently working on: Building advanced full-stack web development projects to enhance my portfolio.<br>🤝 I’m looking to collaborate on: Full-stack projects, especially involving React, Node.js, and MongoDB.<br>👐 I’m looking for help with: Optimizing performance for large-scale web applications.<br>🌱 I’m currently learning: Advanced concepts in full-stack development.<br>💬 Ask me about: Full-stack development with the MERN stack and beyond.<br>⚡ Fun fact: My journey from building simple web pages to mastering full-stack development has been an exciting learning adventure<br>
 
 
 ## 🌐 Socials:
